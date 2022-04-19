@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb444a5b.css",
-    "main.js": "/static/js/main.f5c256e8.js",
+    "main.css": "/static/css/main.52058e78.css",
+    "main.js": "/static/js/main.450b150a.js",
     "static/media/ecommerce.png": "/static/media/ecommerce.522da76635d52117102b.png",
-    "static/media/boy.png": "/static/media/boy.413b22e99b5deb2d7550.png",
     "static/media/sidebar.png": "/static/media/sidebar.b2225070b8adae68d063.png",
+    "static/media/boy1.png": "/static/media/boy1.c624d24b685e3d6cebcd.png",
     "static/media/musicapp.png": "/static/media/musicapp.f1c301f91904ef5f9249.png",
     "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
     "static/media/resume.pdf": "/static/media/resume.7ef71730777cab9d22cf.pdf",
@@ -20,11 +20,11 @@
     "static/media/github.svg": "/static/media/github.b8a78f52a932697c0c1dd415fb2bf191.svg",
     "index.html": "/index.html",
     "static/media/linkedin.svg": "/static/media/linkedin.a03f84b2bcaf712a5f1fe8858160d177.svg",
-    "main.fb444a5b.css.map": "/static/css/main.fb444a5b.css.map",
-    "main.f5c256e8.js.map": "/static/js/main.f5c256e8.js.map"
+    "main.52058e78.css.map": "/static/css/main.52058e78.css.map",
+    "main.450b150a.js.map": "/static/js/main.450b150a.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb444a5b.css",
-    "static/js/main.f5c256e8.js"
+    "static/css/main.52058e78.css",
+    "static/js/main.450b150a.js"
   ]
 }
